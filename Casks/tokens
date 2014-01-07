@@ -1,0 +1,7 @@
+class Tokens < Cask
+  url 'http://usetokens.com/latest'
+  homepage 'http://usetokens.com/'
+  version 'latest'
+  no_checksum
+  link 'Tokens.app'
+end
